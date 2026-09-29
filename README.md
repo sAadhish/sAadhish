@@ -2,57 +2,58 @@
 
 # Hi, I'm Aadhish 👋
 
-### enAI Engineer in the making
+### GenAI Engineer building RAG systems, agents, and production LLM apps
 
-Building production dashboards by day, and LLM-powered applications by night.
+From prompt to production: retrieval, reasoning, evaluation, and monitoring.
 
 ![Location](https://img.shields.io/badge/Chennai-India-blue?style=flat-square&logo=googlemaps&logoColor=white)
-![Role](https://img.shields.io/badge/BI%20Developer-Fipsar%20Solutions-success?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-GenAI%20Engineering-8A2BE2?style=flat-square)
+![Interest](https://img.shields.io/badge/Interests-RAG%20%7C%20Agents%20%7C%20LLMOps-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 📊 BI Developer & Data Analyst at **Fipsar Solutions**, Chennai, building production-grade **Qlik Sense** dashboards for global clients across the **US and EMEA** regions
-- 🎓 B.Tech in Computer Science, ~1 year of professional experience
-- 🚀 Actively transitioning into **GenAI Engineering**, targeting product-based companies and AI-native startups
-- 🧠 On a structured, self-directed ~200-day GenAI learning program, shipping real projects along the way
-- 🤝 Open to conversations about GenAI roles, RAG systems, and data/BI engineering
+- 🤖 I build **LLM-powered applications**: RAG pipelines, agentic workflows, and MCP servers
+- 🚀 Targeting **GenAI Engineer** roles at product-based companies and AI-native startups
+- 🎓 B.Tech in Computer Science, strong in Python, FastAPI, and data engineering
+- 📐 I care about the unglamorous parts of GenAI: **evaluation, observability, prompt versioning, and deployment**
+- 📚 Following a structured, self-directed ~200-day GenAI program, building in public along the way
+- 🤝 Open to conversations about GenAI roles, RAG, and agent architectures
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ GenAI Toolkit
 
-**BI & Analytics**
-
-![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Data Engineering & Cloud**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**GenAI & LLM**
+**LLMs & Frameworks**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=for-the-badge&logoColor=white)
+
+**Retrieval & Vector Stores**
+
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend & Deployment**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Data Foundations**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -60,36 +61,42 @@ Building production dashboards by day, and LLM-powered applications by night.
 
 ### 🔍 [JobLens](https://github.com/sAadhish/joblens): AI-Powered Job Market Intelligence Platform
 
-An end-to-end GenAI application that turns job market data into answers, built stage by stage from LLM fundamentals to a deployed, monitored, agentic system.
+An end-to-end GenAI application, built stage by stage from LLM fundamentals to a deployed, monitored, agentic system.
 
-**Highlights**
+```
+Query → Classifier → Router → Multi-source Retrieval → Rerank → LLM → Self-check → Answer
+                                      ↑                                    │
+                                      └──────── Conversation Memory ───────┘
+```
 
-- **RAG pipeline** with hybrid search and cross-encoder reranking
-- **Evaluation-driven development** using hit rate, MRR, and RAGAS
-- **LangChain refactor** with OOP service architecture, LCEL pipelines, and Qdrant Cloud
-- **LangGraph career agent** with question classification, routing, self-correcting RAG, multi-source retrieval, and conversation memory
-- **Production layer:** MCP server, FastAPI HTTP API, Docker deployment, caching, structured logging, prompt versioning, and LangSmith monitoring
+| Stage | What I built |
+|:-----:|--------------|
+| **1** | LLM fundamentals, prompt engineering, embeddings, vector databases with ChromaDB |
+| **2** | Full **RAG pipeline** with hybrid search, cross-encoder reranking, and evaluation via hit rate, MRR, and RAGAS |
+| **3** | **LangChain** refactor: OOP service architecture, LCEL pipelines, Qdrant Cloud, LangSmith observability |
+| **4** | **LangGraph career agent**: conditional edges, self-correcting RAG, checkpointer memory, question classification and routing |
+| **5** | **Production layer**: MCP server, FastAPI HTTP API, Docker deployment, caching, structured logging, prompt versioning, LangSmith monitoring |
 
 **Stack:** `Python` · `LangChain` · `LangGraph` · `Qdrant` · `ChromaDB` · `Groq (Llama 3.3 70B)` · `all-MiniLM-L6-v2` · `FastAPI` · `Docker` · `LangSmith` · `MCP`
 
 ---
 
-## 🗺️ What I'm Working On
+## 🗺️ Roadmap
 
 | Status | Project |
 |:------:|---------|
 | ✅ | **JobLens**: deployed and complete |
 | 🔨 | **Financial Intelligence Co-Pilot**: next portfolio project |
-| 📈 | **Algorithmic crypto trading bot**: Python backtesting (Supertrend, 4H, Binance data via `ccxt`) |
-| 📚 | ~200-day GenAI learning program: agents, MCP, production systems, multi-agent architectures |
+| 🔜 | **Multi-agent systems**: orchestration and collaboration patterns |
+| 🧪 | **Algorithmic trading bot**: Python backtesting with Supertrend on Binance data (`ccxt`, `pandas`, `ta`) |
 
 ---
 
 ## 🎯 Currently
 
-- 🌱 Deepening my knowledge of **multi-agent systems** and production LLM engineering
-- 💼 Preparing for **GenAI Engineer** roles (application-focused: RAG, agents, LLM apps)
-- 🧪 Exploring quantitative strategy design and backtesting in Python
+- 🌱 Exploring **multi-agent architectures** and agent orchestration
+- 🏗️ Planning the **Financial Intelligence Co-Pilot** as my second flagship project
+- 💼 Preparing for **GenAI Engineer** interviews (application-focused: RAG, agents, LLM apps)
 
 ---
 
@@ -117,6 +124,6 @@ An end-to-end GenAI application that turns job market data into answers, built s
 
 <div align="center">
 
-*"Turning data into decisions, and decisions into intelligent systems."*
+*"Retrieval finds the facts. Agents act on them. Evaluation keeps them honest."*
 
 </div>
