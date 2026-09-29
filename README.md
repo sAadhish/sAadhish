@@ -30,7 +30,7 @@ I'm an AI Engineer with 1.5+ years of experience shipping **production Generativ
 
 ## 💼 Experience
 
-### AI Engineer, Internal AI Platform · Fipsar Solutions, Chennai
+### AI Engineer, Internal AI Platform ·  Chennai
 *Jan 2025 – Present*
 
 **Enterprise AI Documentation Copilot**: a unified AI knowledge platform across SharePoint, Snowflake, and enterprise BI data.
