@@ -2,7 +2,7 @@
 
 # Hi, I'm Aadhish 👋
 
-### BI Developer & Data Analyst → GenAI Engineer in the making
+### enAI Engineer in the making
 
 Building production dashboards by day, and LLM-powered applications by night.
 
